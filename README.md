@@ -1,6 +1,6 @@
 # Hilario Cuervo
 
-### JR iOS Developer in process & Informatic Student at UNLP
+#### JR iOS Developer in process & Informatic Student at UNLP
 
 #### 📍 Buenos Aires, Argentina
 
