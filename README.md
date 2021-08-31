@@ -2,8 +2,6 @@
 
 #### JR iOS Developer in process & Informatic Student at UNLP
 
-#### 📍 Buenos Aires, Argentina
-
 In 2019 I decided to start studying computer science and get into one of my passions.
 Actually I am on the 2nd year of the computer science degree, enjoying the road and learning more every day.
 
@@ -27,6 +25,11 @@ I have been learning by some Udemy courses and working on my own projects to gai
 * Self-taught
 * Pro-active
 * Eager to learn
+
+
+## Location
+
+#### 📍 Buenos Aires, Argentina
 
 
 ### Contact Me
