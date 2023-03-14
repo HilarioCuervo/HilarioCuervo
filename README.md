@@ -8,7 +8,7 @@
 In 2019 I decided to start studying computer science and get into one of my passions.
 Actually I am on the 2nd year of the computer science degree, enjoying the road and learning more every day.
 
-A year ago, in 2020, I started to introduce myself in the iOS apps world using Swift and XCode.
+In 2020, I started to introduce myself in the iOS apps world using Swift and XCode.
 Actually i'm working in Wabi, using technologies like UIKit, SwiftUI, Combine and more!
 
 
