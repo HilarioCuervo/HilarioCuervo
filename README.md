@@ -7,6 +7,7 @@
 
 I see app development as a way to convey facilitiy and productivity to final users.
 I like to create modern applications, using the latest technologies or frameworks that help the language and facilitate development, without losing its power.
+</br>
 My goals are to grow professionally in environments where I can learn together with great professionals, building products that make an impact on the industry.
 
 
